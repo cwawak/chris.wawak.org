@@ -1,7 +1,48 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>302 Found</title>
-</head><body>
-<h1>Found</h1>
-<p>The document has moved <a href="https://kashyapc.fedorapeople.org/openshift-tinker/2014-01-23-hellouniverse.markdown">here</a>.</p>
-</body></html>
+Hello-Universe
+==============
+
+Universe
+--------
+
+Universe is made up of:
+
+  - Atoms
+  - Galaxies
+  - Stars
+  - Higgs-Boson particles
+  - Black holes
+  - Plenty others. . .
+
+Version
+-------
+
+1.0
+
+Tech
+----
+
+* Good old Plain text
+* [Jekyll] - Transforms plain text into static websites
+* [Octopress] - A simple and powerful blogging framework
+* [OpenShift] - An Open Cloud Application Platform
+
+Installation
+------------
+
+```sh
+$ ls
+$ ps -ef
+$ top
+```
+
+License
+-------
+
+GPL V3+
+
+
+** This is sweet! **
+
+[Jekyll]:http://jekyllrb.com/
+[Octopress]:http://octopress.org
+[OpenShift]:https://www.openshift.com/
